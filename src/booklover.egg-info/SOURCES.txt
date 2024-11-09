@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/booklover/__init__.py
+src/booklover/booklover.py
+src/booklover/booklover_test.py
+src/booklover.egg-info/PKG-INFO
+src/booklover.egg-info/SOURCES.txt
+src/booklover.egg-info/dependency_links.txt
+src/booklover.egg-info/top_level.txt

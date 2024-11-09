@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: booklover
+Version: 0.1.0
+Summary: A package for book lover operations and tests
+Author: Srivatsa Balasubramanyam
+Author-email: mhe3sy@virginia.edu
+Requires-Python: >=3.6
